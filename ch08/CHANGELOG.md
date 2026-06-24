@@ -1,8 +1,1 @@
-- Page TBD: Replace `ng add @progress/kendo-angular-navigation` with `TDB`
-- Page TBD: Replace `ng add @progress/kendo-angular-inputs` with `TDB`
-- Page TBD: Replace `ng add @progress/kendo-angular-label` with `TDB`
-- Page TBD: Replace `ng add @progress/kendo-angular-dropdowns` with `TDB`
-- Page TBD: Replace `ng add @progress/kendo-angular-buttons` with `TDB`
-- Page TBD: Replace `ng add @progress/kendo-angular-scheduler` with `TDB`
-- Page TBD: Replace `ng add @progress/kendo-angular-listview` with `TDB`
-- Page TBD: Replace `ng add @progress/kendo-angular-layout` with `TDB`
+Run the command `npm install @angular/animations -f`
